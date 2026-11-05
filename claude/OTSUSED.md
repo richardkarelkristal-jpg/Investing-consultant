@@ -1,10 +1,9 @@
 # OTSUSED
 
-_Viimati uuendatud: 2026-11-06 (R) 01:55 Tallinn_
+_Viimati uuendatud: 2026-11-06 (R) 02:05 Tallinn_
 
 ## ❓ Ootab otsust
 - **06.11 01:55** — Rakendusplaani mustand (all) — kinnita / muuda.
-- **06.11 01:55** — PIIBEL §2 ütleb "€50–400/kuus", tegelikult €1 000–1 200/kuus. Kas uuendan profiili (v5.2)?
 - **06.11 01:45** — §9.8 volatiilsustest: AI-osa on −13…−21%. Kirjuta, mida teed, kui see läheb −35%-ni.
 - **06.11 01:45** — 2035. laused ja falsifikatsioonid (mustandid `portfell/SEIS.md`) — kinnita / muuda.
 
@@ -31,6 +30,12 @@ Max pool vabast kapitalist nädalas (§9.4). Uus nimi max 1/kuus. Kui aknas üks
 ---
 
 ## Päevik (§13) — uusim üleval
+
+**2026-11-06 (R) — PIIBEL v5.2**
+- Tegu: PIIBEL §2 sissemaksed €50–400 → €1 000–1 200/kuus (Remy kinnitas: _"jah uuenda profiili seoses selle igakuise sisse kandega"_)
+- Miks: profiil peab vastama tegelikkusele; sissemaksemäär on praegu suurim tulemuse määraja
+- Koostoime kontroll (§15.9): €1 100/kuus ≈ 16% kontost → §10 ">25%" ei käivitu igakuisel maksel ✓
+- Ülevaatus: 2027-11-06
 
 **2026-11-06 (R) 01:55 — Remy vastused**
 - Sularaha → **EUR Savings** (soovitus kinnitatud).

@@ -10,7 +10,7 @@ See repo on Remy (Richard) Lightyeari IK portfelli otsustussüsteem. **Iga sessi
 3. Tänane kuupäev + nädalapäev + kellaaeg Tallinna aja järgi (§15.12).
 
 ## Konfliktid
-- **PIIBEL v5.1 on ülim.** Kui mõni oskus (skill), nt `portfelli-analuus` (vana 50/30/10/10 strateegia), või vanem mälu on PIIBLIGA vastuolus, kehtib PIIBEL. Ütle vastuolu välja.
+- **PIIBEL (kehtiv versioon PIIBEL.md päises) on ülim.** Kui mõni oskus (skill), nt `portfelli-analuus` (vana 50/30/10/10 strateegia), või vanem mälu on PIIBLIGA vastuolus, kehtib PIIBEL. Ütle vastuolu välja.
 - PIIBLIT muudetakse ainult Remy loal. Muudatus = uus versiooninumber + kanne §16, kui põhjuseks oli viga.
 
 ## Failid

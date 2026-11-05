@@ -1,6 +1,6 @@
-# PIIBEL v5.1 — Dividendi Strateegia
+# PIIBEL v5.2 — Dividendi Strateegia
 
-**Kehtiv:** 30.09.2026 · **Asendab:** v5.0 · **Horisont:** 2035 · **Konto:** Lightyear IK
+**Kehtiv:** 06.11.2026 · **Asendab:** v5.1 (muudatus: §2 sissemaksed) · **Horisont:** 2035 · **Konto:** Lightyear IK
 
 **Kasutusjuhis:** see dokument on reeglistik. Portfelli seis lisatakse eraldi (ekraanipildid → `portfell/SEIS.md`). Reeglistik ei tohi aeguda koos portfelliga.
 
@@ -19,7 +19,7 @@ Vorming: eesti keel, järeldused enne tõendeid, mobiilisõbralik, tabelid, rasv
 | Eesmärk | Maksimaalne kogutootlus — hind + dividendid koos |
 | Dividendi strateegia | Selgroog, mitte dogma. Ostan kvaliteeti, mitte silti |
 | Ostuulatus | Kõik, mis läbib värava — dividendi- või kasvusilt ei loe |
-| Sissemaksed | €50–400/kuus, harva ka suured laekumised 1k–6k |
+| Sissemaksed | €1 000–1 200/kuus (alates 11/2026), harva ka erakorralised suured laekumised. Laekumine >25% portfellist → §10 |
 | Struktuur | Eesti investeerimiskonto (IK). OÜ-d on skoobist väljas |
 | Baasvaluuta | EUR, varad valdavalt USD |
 | Riskitaluvus | −30% talutav, kui tees on tugev — väide, mitte fakt, kuni testitud (§9.8) |
@@ -390,4 +390,4 @@ Kõik otsused on ühes projektifailis `claude/OTSUSED.md`. Claude hoiab seda, Re
 5. Fail peab olema 30 sekundiga loetav. Detailid lähevad analüüsifaili, mitte siia.
 
 ---
-*Piibel v5.1 · Dividendi Strateegia · Lightyear IK · Horisont 2035. See raamistik toetab minu enda otsustusprotsessi. Ei ole investeerimisnõuanne ega maksunõustamine.*
+*Piibel v5.2 · Dividendi Strateegia · Lightyear IK · Horisont 2035. See raamistik toetab minu enda otsustusprotsessi. Ei ole investeerimisnõuanne ega maksunõustamine.*
