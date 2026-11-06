@@ -374,6 +374,7 @@ Verdiktid: **HOIA · JÄLGI · KAALU TRIMMIMIST · OSTUVÕIMALUS · MÜÜ**
 | Verifitseerimata väide korrati kahes analüüsis | Verifitseerimata väide ei lähe ringlusse |
 | Hoidmislävi 10% vs kaitsev 9% ja §5.3 tabel vs kaitsev ämber — lävendid ei klappinud | Uue lävendi lisamisel kontrolli korraga §3.1, §5.3, §6 ja §11 |
 | Kalendri kuupäevad võeti agregaatorist (BLK, SPGI valed) ja tähtaeg jäi laupäevale (31.10) | Kalendrisse ainult ettevõtte ametlik aeg, muu ⚪; tähtaeg = börsipäev + kellaaeg |
+| Rakendusplaani aken seoti katalüsaatoritega (ENR, NVDA), mis uusi nimesid ei puuduta → raha oleks asjatult 2 nädalat seisnud | §9.1 katalüsaator kehtib ainult selle nime kohta, mida ta puudutab |
 
 Uus kanne lisatakse iga kord, kui analüüsis avastatakse viga. Register on osa raamistikust, mitte lisa.
 

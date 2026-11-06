@@ -5,7 +5,7 @@ _Viimati uuendatud: 2026-11-06 (R) Tallinn · PIIBEL v5.3_
 **Tööjaotus (§18.3):** Claude otsustab analüüsi. Sina ütled ainult tehingutele **jah/ei**. Veto igal ajal: "muuda X".
 
 ## ❓ Ootab sinu otsust
-- _Praegu mitte midagi._ Esimene tehinguotsus tuleb ⚪ ~23.11 (rakendusplaani osa 1).
+- _Praegu mitte midagi._ Esimene tehinguotsus tuleb pärast E 09.11 analüüsi (aken alates T 10.11).
 
 ## ✅ Sinu teha
 - **KOHE:** €4 974 Cash → **EUR Savings**.
@@ -16,15 +16,15 @@ _Viimati uuendatud: 2026-11-06 (R) Tallinn · PIIBEL v5.3_
 ## 📌 Claude otsustas (kehtib, veto lubatud)
 - **2035. laused + falsifikatsioonid** 6 positsioonile → `portfell/SEIS.md`.
 - **§9.8 langusplaan:** kui AI-nimed (NVDA, AVGO, VST, ENR, APP) kukuvad tänasest veel −35%: (1) **ei müü hinna pärast** — müük ainult punase falsifikatsiooni korral; (2) **ei osta AI-nimesid juurde** (faktorilagi); (3) sissemaksed jätkuvad plaanipäraselt mitte-AI nimedesse. Pärast langust võrdleme: kas käitusid plaani järgi?
-- **Rakendusplaan** (§10): €4 974 kolmes osas + igakuine sissemakse, ainult värava läbinud nimedesse; AI-capex nimedesse kokku max ~€340, APP max ~€1 260.
+- **Rakendusplaan v2** (§10, muudetud 06.11): igakuine sissemakse **ei ole** §10 laekumine → rakendub samal kuul. €4 974 jaotub esikoormusega 3 kuu peale. Iga kuu **uue nime koht kasutatakse kuu alguses**. AI-capex nimedesse max ~€340 (+~€220 iga €1 100 mitte-AI raha kohta), APP max ~€1 260.
 
-| Osa | Aken | Summa |
-|---|---|---|
-| 1 | E 23.11 – R 04.12 | ≤ €1 658 + nov sissemakse |
-| 2 | E 07.12 – R 18.12 | ≤ €1 658 + dets sissemakse |
-| 3 | E 04.01 – R 15.01 | ≤ €1 658 + jaan sissemakse |
+| Kuu | Aken | Suur summa | + sissemakse | Uus nimi |
+|---|---|---|---|---|
+| Nov | T 10.11 – E 30.11 | ≤ €2 000 | nov €1 000–1 200 | #1 (eelistatult kaitsev) |
+| Dets | T 01.12 – K 23.12 | ≤ €1 500 | dets | #2 |
+| Jaan | E 04.01 – R 29.01 | ülejääk ~€1 474 | jaan | #3 |
 
-Kui aknas ükski nimi väravat ei läbi → raha jääb Savingsisse, põhjendus kirja samal päeval.
+Piirangud: max pool vabast kapitalist nädalas (§9.4) · ainult värava läbinud nimed · iga nime enda katalüsaator enne ostu (§9.1). Kui aknas ükski nimi väravat ei läbi → raha Savingsisse, põhjendus kirja samal päeval.
 
 ## 📅 Kalender (Tallinna aeg)
 - **R 06.11** ⚪ ~14:00 — VST Q3. Ei osta (§9.1).
@@ -35,6 +35,13 @@ Kui aknas ükski nimi väravat ei läbi → raha jääb Savingsisse, põhjendus 
 ---
 
 ## Päevik (§13) — uusim üleval
+
+**2026-11-06 (R) — Rakendusplaan v2**
+- Remy: _"Kui ma igakuu neid sisse makseid teen, siis kas rakendusplaan ei peaks natuke agressiivsem olema?"_
+- Tegu: plaan muudetud — algus 23.11 → 10.11, esikoormus (2000/1500/ülejääk), igakuine sissemakse rakendub samal kuul
+- Miks: v1 sidus kõik ostud ENR/NVDA tulemustega, mis uusi mitte-AI nimesid ei puuduta (viga, §16); tegelik pidur on 1 uus nimi/kuus, mitte ajastus
+- Mis peab juhtuma, et ma eksisin: kiirustamine viib värava napilt läbinud nimeni, mis 12 kuu pärast on kollase lipuga
+- Ülevaatus: 2027-11-06
 
 **2026-11-06 (R) — PIIBEL v5.3: tööjaotus**
 - Remy: _"kas sina ei peaks ikkagi otsustama lopuks miks ja kuidas edasi. sina teed ju analüüse ja ehk mul on raske vastata nendele kusimustele ju"_ → valis "Claude otsustab, mina tehingud".
