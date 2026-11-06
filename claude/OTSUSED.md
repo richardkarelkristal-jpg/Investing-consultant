@@ -28,7 +28,8 @@ Piirangud: max pool vabast kapitalist nädalas (§9.4) · ainult värava läbinu
 
 ## 📅 Kalender (Tallinna aeg)
 - **R 06.11** ⚪ ~14:00 — VST Q3. Ei osta (§9.1).
-- **E 09.11** 07:43 — automaatne täisanalüüs + watchlist (kaitsev / mitte-AI).
+- **E 09.11** 07:43 — automaatne täisanalüüs + watchlist (kaitsev / mitte-AI). Kui nimi läbib §11 värava → ❓ tehinguküsimus (nimi, summa, limiithind).
+- **T 10.11** — esimene võimalik ost, **ainult kui E analüüs selle välja annab**. Aken: USA 17:00–22:30 · Xetra/Pariis 10:30–18:00 (§9.13). Limiitorder. Esimene uus nimi ~€500–700 (§5.3), mitte kogu €2 000.
 - ⚪ **~K 11.11 / N 12.11** ~08:00 — ENR FY26 → ENR hoia/jäänuk otsus.
 - ⚪ **~18.–19.11** ~23:20 — NVDA Q3 FY27.
 
