@@ -27,15 +27,17 @@
 
 Positsioone: **6 / 16**. ER-id on esialgsed (sisendid aug–sept 2026), detailid `analuusid/2026-11-06-algseis.md`.
 
-## 2035. laused ja falsifikatsioon (§8) — MUSTAND, Remy kinnitamata
-| Ticker | 2035. lause (mustand) | Teesist all = kollane | Punane | Kinnitatud |
+## 2035. laused ja falsifikatsioon (§8) — KEHTIVAD (Claude otsustas 06.11.2026, §18.3 v5.3)
+
+⚠️ Kirjutatud **pärast** ostu (§9.6) — nõrgem distsipliin kui eelnev falsifikatsioon. Käivitaja on alati ettevõtte number, mitte hind. Remy veto: kirjuta "muuda X".
+| Ticker | 2035. lause (mustand) | Teesist all = kollane | Punane | Staatus |
 |---|---|---|---|---|
-| ENR | Gaasiturbiinide ja võrgu tellimuste tsükkel muutus marginaaliks (≥10%), mitte ei sulanud hinnakonkurentsis; Gamesa ei söö kasumit | Tellimuste book-to-bill <1,0 kaks kvartalit järjest | Gamesa uued suured kahjumid VÕI marginaali juhis alla 8% | ❌ |
-| HO | Euroopa kaitsekulutuste kasv 2%→3%+ SKP-st jõudis Thalesi EPS-i, mitte ainult tellimustesse | Orgaaniline kasv <5% kaks kvartalit | Juhise langetus + EBIT-marginaal <11% | ❌ |
-| AVGO | Custom-AI kiibid (XPU) jäid hüperskaleerijatele kuluefektiivsemaks kui GPU ja VMware tasub end ära | AI-käibe kasv alla juhise 2 kvartalit | ≥2 kuuest XPU-kliendist läheb ära / kolib in-house | ❌ |
-| NVDA | AI-capex tootis klientidele tulu, nii et nõudlus püsis ka pärast ehitusbuumi; marginaal ≥60% | Andmekeskuse käive QoQ langeb 2 kvartalit | Brutomarginaal <60% püsivalt VÕI hüperskaleerijate capex-juhis −20% | ❌ |
-| APP | AXON reklaamimootor laienes mängudest e-kaubandusse ja jäi platvormide (Apple/Google) reeglitest sõltumatuks | Käibe kasv <25% a/a | Platvormi poliitikamuutus lõikab ligipääsu VÕI regulatiivne tuvastus andmekasutuse kohta | ❌ |
-| VST | Andmekeskuste elektrinõudlus andis pikaajalised fikseeritud hinnaga lepingud (tuumajaamad) | Uusi PPA-sid ei sõlmita 2 kvartalit | Võlg/EBITDA >3,5x VÕI dividend võla arvelt | ❌ |
+| ENR | Gaasiturbiinide ja võrgu tellimuste tsükkel muutus marginaaliks (≥10%), mitte ei sulanud hinnakonkurentsis; Gamesa ei söö kasumit | Tellimuste book-to-bill <1,0 kaks kvartalit järjest | Gamesa uued suured kahjumid VÕI marginaali juhis alla 8% | ✅ kehtib |
+| HO | Euroopa kaitsekulutuste kasv 2%→3%+ SKP-st jõudis Thalesi EPS-i, mitte ainult tellimustesse | Orgaaniline kasv <5% kaks kvartalit | Juhise langetus + EBIT-marginaal <11% | ✅ kehtib |
+| AVGO | Custom-AI kiibid (XPU) jäid hüperskaleerijatele kuluefektiivsemaks kui GPU ja VMware tasub end ära | AI-käibe kasv alla juhise 2 kvartalit | ≥2 kuuest XPU-kliendist läheb ära / kolib in-house | ✅ kehtib |
+| NVDA | AI-capex tootis klientidele tulu, nii et nõudlus püsis ka pärast ehitusbuumi; marginaal ≥60% | Andmekeskuse käive QoQ langeb 2 kvartalit | Brutomarginaal <60% püsivalt VÕI hüperskaleerijate capex-juhis −20% | ✅ kehtib |
+| APP | AXON reklaamimootor laienes mängudest e-kaubandusse ja jäi platvormide (Apple/Google) reeglitest sõltumatuks | Käibe kasv <25% a/a | Platvormi poliitikamuutus lõikab ligipääsu VÕI regulatiivne tuvastus andmekasutuse kohta | ✅ kehtib |
+| VST | Andmekeskuste elektrinõudlus andis pikaajalised fikseeritud hinnaga lepingud (tuumajaamad) | Uusi PPA-sid ei sõlmita 2 kvartalit | Võlg/EBITDA >3,5x VÕI dividend võla arvelt | ✅ kehtib |
 
 ## Watchlist (§14 samm 5 — ei tohi olla portfellist pikem)
 | Ticker | Värav läbitud? | Käivitaja | ER % |

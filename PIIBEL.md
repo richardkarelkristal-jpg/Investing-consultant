@@ -1,6 +1,6 @@
-# PIIBEL v5.2 — Dividendi Strateegia
+# PIIBEL v5.3 — Dividendi Strateegia
 
-**Kehtiv:** 06.11.2026 · **Asendab:** v5.1 (muudatus: §2 sissemaksed) · **Horisont:** 2035 · **Konto:** Lightyear IK
+**Kehtiv:** 06.11.2026 · **Asendab:** v5.2 (v5.2: §2 sissemaksed · v5.3: §18 otsustusõigus) · **Horisont:** 2035 · **Konto:** Lightyear IK
 
 **Kasutusjuhis:** see dokument on reeglistik. Portfelli seis lisatakse eraldi (ekraanipildid → `portfell/SEIS.md`). Reeglistik ei tohi aeguda koos portfelliga.
 
@@ -384,10 +384,10 @@ Uus kanne lisatakse iga kord, kui analüüsis avastatakse viga. Register on osa 
 ## 18. OTSUSTE FAIL
 Kõik otsused on ühes projektifailis `claude/OTSUSED.md`. Claude hoiab seda, Remy ainult vastab.
 1. Iga vestluse ja iga uue päeva alguses loe `OTSUSED.md`. Iga analüüsi või otsuse järel uuenda seda samal päeval. Kui Remy ütleb, et midagi on tehtud, märgi see ära.
-2. Kõik, mis vajab Remy otsust, küsi valikküsimusena (2–4 varianti, soovitus esimesena). Vastus läheb päevikusse (§13). Kui Remy vastab oma sõnadega, salvesta need sõna-sõnalt.
-3. Claude teeb mustandid (ER, erand, 2035 lause, falsifikatsioon). Ükski ost ei toimu enne, kui Remy on need kinnitanud (§9.6).
+2. Remy otsustab ainult **tehingud** (ost, müük, raha liigutamine): küsi valikküsimusena (2–4 varianti, soovitus esimesena), iga tehinguga üks lause põhjendust + summa. Vastus läheb päevikusse (§13). Kui Remy vastab oma sõnadega, salvesta need sõna-sõnalt.
+3. **Claude otsustab analüütilised küsimused** (ER, värav, erand, 2035 lause, falsifikatsioon, watchlist, rakendusplaani summad). Need jõustuvad kohe, kui on kirjas `OTSUSED.md`-s. Remy võib igal ajal panna veto — veto salvestatakse sõna-sõnalt. Ükski ost ei toimu enne, kui 2035 lause + falsifikatsioon on kirjas (§9.6) ja Remy on tehingule öelnud "jah".
 4. Faili ülaosas on alati: ❓ ootab otsust (kuupäev + kellaaeg) · ✅ sinu teha · 📅 kalender. Päevikus on uusim kanne üleval.
 5. Fail peab olema 30 sekundiga loetav. Detailid lähevad analüüsifaili, mitte siia.
 
 ---
-*Piibel v5.2 · Dividendi Strateegia · Lightyear IK · Horisont 2035. See raamistik toetab minu enda otsustusprotsessi. Ei ole investeerimisnõuanne ega maksunõustamine.*
+*Piibel v5.3 · Dividendi Strateegia · Lightyear IK · Horisont 2035. See raamistik toetab minu enda otsustusprotsessi. Ei ole investeerimisnõuanne ega maksunõustamine.*
